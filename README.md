@@ -62,7 +62,7 @@ Visualiza o usuario usando o seu id.
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Franciane** - *Estudando de programção* - [umdesenvolvedor]()
+* **Franciane** - *Estudando de programção* - [umdesenvolvedor](https://github.com/fran-ss)
 
 
 ## 📄 Licença
