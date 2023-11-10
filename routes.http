@@ -1,0 +1,22 @@
+POST http://localhost:3000/user
+Content-Type: application/json
+
+{
+ "name": "Fran santos ",
+ "email": "fram@gmail.com"
+}
+####
+GET  http://localhost:3000/user
+####
+GET  http://localhost:3000/user/5
+####
+PUT http://localhost:3000/user/3
+Content-Type: application/json
+
+{
+ "name": "lucia santos ",
+ "email": "luciana@gmail.com"
+}
+####
+
+DELETE  http://localhost:3000/user/3
