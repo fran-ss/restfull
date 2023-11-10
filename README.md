@@ -48,26 +48,25 @@ npx tsx server.ts
 GET
 http://localhost:3000/user
 visualizar todos so usuarios.
+
 PUT
 http://localhost:3000/user/id
 Atualiza o usuario usando seu id. 
+
 DELETE
 http://localhost:3000/user/id
 Deleta o ususario usando o id.
+
 GET
 http://localhost:3000/user/id
 Visualiza o usuario usando o seu id. 
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+
 
 * **Franciane** - *Estudando de programção* - [umdesenvolvedor](https://github.com/fran-ss)
 
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
